@@ -7,7 +7,7 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font: HelveticaNeue;
+  font: Helvetica;
 }
 
 /* ID selector to select the element with id 'main-header' */
